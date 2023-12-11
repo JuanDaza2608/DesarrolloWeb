@@ -1,0 +1,41 @@
+.contenedor-ciudad-principal{
+    width: 400px;
+    height: 200px;
+    margin: 10px 10px 30px 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #cbcbcb;
+    box-shadow: 0 3px 13px 1px rbg(0 0 0 /9%);
+}
+
+.imagen-ciudad{
+  height: 100%;
+  width: 50%;
+}
+
+.contenedor-texto-ciudad{
+  text-align: center;
+  padding: 40px;
+  font-family: Lato, sans-serif;
+  font-weight: 400;
+  line-height: 1.5rem;
+}
+
+.nombre-ciudad{
+  text-align: center;
+  font-size:  2rem;
+  margin-top: 15px;
+}
+
+.temperatura-ciudad{
+  text-align: center;
+  font-size:  1.2rem;
+  margin-top: 20px;
+}
+
+.descripcion-clima{
+  text-align: center;
+  font-size:  0.8rem;
+  margin-top: 10px;
+}

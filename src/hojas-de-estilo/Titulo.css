@@ -1,0 +1,24 @@
+
+.contenedor-titulo{
+    display: flex;
+    align-items: center;
+    
+}
+  
+.titulo-imagen {
+  height: 120px;
+  align-items: center;
+  border:2px solid #000;
+  background-color: #fff; 
+}
+  
+  
+.titulo-imagen img {
+  height: 120px;
+}
+  
+  
+.titulo-texto {
+  margin-left: 20px;
+  
+}
